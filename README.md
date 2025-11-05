@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Lug9WwD2)
+	[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Lug9WwD2)
 # Introducció a Git - 01 Git Basics
 
 Repositori d'exercicis de git. Segueix les instruccions i resold els exercicis
@@ -93,12 +93,6 @@ arreglar-ho.
 
   - En el fitxer `exe1.html`, just a sota de `<h1>Exercici 1</h1>`, inserta el
     fitxer `git.log` entre `<pre>` i `</pre>` amb les següents comandes:
-
-```bash
-    echo '<pre>' >> exe1.html
-    cat git.log >> exe1.html
-    echo '</pre>' >> exe1.html
-```
 
   - Edita el fitxer `exe1.html` i posa a lloc el bloc `<pre>..</pre>`, que ha
     d'anar just abans del tag `</body>`.
