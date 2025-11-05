@@ -1,0 +1,33 @@
+    2  sudo apt install git
+   12  git init
+   18  git init
+   33  git init
+   34  git status
+   35  git add README.md 
+   36  git status
+   37  git log
+   40  git clone https://github.com/rocher/projecte-smx2b-2025-
+   43  git clone https://github.com/rocher/projecte-smx2b-2025-2026.git
+   45  git add README.md 
+   46  git commit -m "Darek Valencia"
+   47  git push origin main
+   50  git clone git@github.com:Inspalamos-SMX2B-2025-2026/01-git-basics-darekbrucev-stack.git
+   52  cd 01-git-basics-darekbrucev-stack/
+   56  git add README.md exe1.html
+   57  git commit -m "Nou exe1"
+   58  git push origin
+   59  git push origin main
+   62  git add exe2.html
+   63  git commit -m "Nou exe2"
+   64  git push origin main
+   72  git add exe1.html exe2.html README.md 
+   73  git commit -m "Using Bootstrap"
+   74  git push origin main
+   75  git branch web
+   76  git push -u origin web
+   77  git checkout main
+   78  git rm exe1.html exe2.html
+   79  git commit -m "Remove html files from main"
+   80  git push origin main
+   81  git checkout web
+   82  history | grep git > git.log
