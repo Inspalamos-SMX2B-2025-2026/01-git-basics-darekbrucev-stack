@@ -82,11 +82,7 @@ arreglar-ho.
 ## Exercici 7
 
   - A la branca `web`, Aplica el fitxer d'estil css als fitxers `exe1.html` i
-    `exe2.html`. Has de posar el següent html just abans de `</head>`:
-
-```html
-    <link href="style.css">
-```
+    `exe2.html`. Has de posar el següent html just abans de `</head>`:O
 
   - Esborra aquest codi html d'aquest fitxer, `README.md`, i fes el commit i
     el push a la branca principal. Missatge: 'HTML done'.
